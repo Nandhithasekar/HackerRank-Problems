@@ -1,0 +1,7 @@
+        Scanner sr=new Scanner(System.in);
+        System.out.print(sr.nextBigInteger().isProbablePrime(100)?"prime":"not prime");
+        
+        
+        
+        Input  : 13
+        Output :prime
